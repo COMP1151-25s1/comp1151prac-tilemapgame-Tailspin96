@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TileSheet_Town.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "TileSheet_Town.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Town.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 58.75,
+                "y": 139.25
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/48963658/Desktop/GitHub/comp1151prac-tilemapgame-Tailspin96/Assets/kenney_tiny-town/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "TileSheet_Town.tsx",
+        "Town.tmx"
+    ],
+    "project": "TileMap.tiled-project",
+    "recentFiles": [
+        "Town.tmx",
+        "TileSheet_Town.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
